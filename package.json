@@ -1,0 +1,19 @@
+{
+  "name": "my_project_2-main",
+  "version": "1.0.0",
+  "description": "Умный список задач Умный список задач — это PWA-приложение (Progressive Web App) для управления задачами. Оно позволяет добавлять, отмечать выполненные задачи, фильтровать их и получать push-уведомления. Приложение работает офлайн благодаря Service Worker и сохраняет данные локально.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "web-push": "^3.6.7"
+  }
+}
